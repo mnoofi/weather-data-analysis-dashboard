@@ -1,3 +1,4 @@
+![Dashboard Preview](dashboard.png)
 # 🌦 Rainfall Prediction System & Weather Analytics Dashboard
 
 ## 📌 Project Overview
